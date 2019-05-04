@@ -1,0 +1,14 @@
+/Users/faculdadealfa/Projects/Appf/Appf/bin/Debug/netstandard2.0/Appf.deps.json
+/Users/faculdadealfa/Projects/Appf/Appf/bin/Debug/netstandard2.0/Appf.dll
+/Users/faculdadealfa/Projects/Appf/Appf/bin/Debug/netstandard2.0/Appf.pdb
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.csprojAssemblyReference.cache
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.csproj.CoreCompileInputs.cache
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.AssemblyInfoInputs.cache
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.AssemblyInfo.cs
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.dll
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Appf.pdb
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Pagina3.xaml.g.cs
+/Users/faculdadealfa/Projects/Appf/Appf/obj/Debug/netstandard2.0/Pagina4.xaml.g.cs

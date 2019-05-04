@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{4BD05D6D-1488-4F17-83B1-DE8F239ED771}|Default">
+  <MonoDevelop.Ide.ItemProperties.Appf.Android AndroidDesignerPreferredTheme="Theme.DeviceDefault.Light.NoActionBar.Fullscreen" PreferredExecutionTarget="Android.Android_Accelerated_Nougat" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Appf/MainPage.xaml">
+    <Files>
+      <File FileName="Appf/MainPage.xaml" />
+      <File FileName="Appf/MainPage.xaml.cs" Line="33" Column="50" />
+      <File FileName="Appf/Pagina3.xaml" />
+      <File FileName="Appf/Pagina3.xaml.cs" Line="21" Column="43" />
+      <File FileName="Appf/Pagina4.xaml" />
+      <File FileName="Appf/Pagina4.xaml.cs" Line="22" Column="1" />
+      <File FileName="Appf/App.xaml.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Appf" expanded="True">
+            <Node name="Appf" expanded="True">
+              <Node name="App.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True" selected="True" />
+              <Node name="Pagina3.xaml" expanded="True" />
+              <Node name="Pagina4.xaml" expanded="True" />
+            </Node>
+            <Node name="Appf.Android" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="drawable" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Appf.iOS FirstBuild="True" />
+</Properties>
